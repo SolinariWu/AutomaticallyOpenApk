@@ -1,5 +1,5 @@
 # AutomaticallyOpenApk
-**Description**:
+**Description**:Use DownloadManager download APK,set ContentObsrver when 「ACTION_DOWNLOAD_COMPLETE」automatically open apk install view.
 
 ![Screenshots](https://2.bp.blogspot.com/-rfsCNo99cpw/WOjIxqrhgSI/AAAAAAAADTA/LnkcFMCQn6U64wfo2jsl55mR9HCRPN72wCEw/s400/OpenSDK_Complete.gif)
 
