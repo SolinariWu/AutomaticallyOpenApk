@@ -1,7 +1,7 @@
 # AutomaticallyOpenApk
 **Description**:
 
-Use DownloadManager download APK,through ContentObserver show progress bar dialog,register roadcastReceiver when 「ACTION_DOWNLOAD_COMPLETE」automatically open install view. 
+Use DownloadManager download APK, through ContentObserver show progress bar dialog, register roadcastReceiver when 「ACTION_DOWNLOAD_COMPLETE」automatically open install view. 
 
 p.s. Android 6.0,7.0 work perfectly.
 
